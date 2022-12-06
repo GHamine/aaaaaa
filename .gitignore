@@ -1,0 +1,15 @@
+*
+
+!src/
+src/*
+!src/GL/
+src/GL/*
+!src/GL/tp3/
+src/GL/tp3/*
+!src/GL/tp3/modelio/
+src/GL/tp3/modelio/*
+!src/GL/tp3/modelio/*.java
+
+!.vscode
+!.gitignore
+!README.md
